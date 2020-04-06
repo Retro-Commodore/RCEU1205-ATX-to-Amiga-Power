@@ -33,4 +33,4 @@ You can use these for whatever you want.
 
 (*) the extra pin headers are not needed, but can be an extra help if you want to i.e. control fans using an arduino and temperature sensor.
 
-![Pics/RCEU1205.jpg](Rendered Pic)
+![Rendered Pic](Pics/RCEU1205.jpg)
