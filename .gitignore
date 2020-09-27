@@ -2,3 +2,4 @@
 Schematics/KiCAD/fp-info-cache
 Schematics/KiCAD/RCEU1205-ATX-to-Amiga-Power.lib
 Schematics/KiCAD/RCEU1205-ATX-to-Amiga-Power.net
+*.kicad_pcb-bak
