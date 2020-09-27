@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "RCEU 1205 - ATX to Amiga power adapter"
-Date "2020-08-23"
-Rev "2"
+Date "2020-09-28"
+Rev "3"
 Comp ""
 Comment1 ""
 Comment2 ""
